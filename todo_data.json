@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "text": "Kapor Kacha",
+    "priority": "Medium",
+    "due_date": "2025-12-12",
+    "completed": false,
+    "created": "2025-12-11 00:18",
+    "deleted": true
+  }
+]
