@@ -163,4 +163,4 @@ Built using Python + Tkinter
 
 Calendar UI powered by tkcalendar
 
-Developer: Arushi Sengupta (arushi23git)
+Developer: Arushi Sengupta (arushi23git) & Abhishuman Roy (abhishuman18)
